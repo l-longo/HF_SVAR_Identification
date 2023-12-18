@@ -19,3 +19,4 @@ $\boldsymbol{y}^{(q)} = \Sigma_{i=23}^66 \boldsymbol{y}_{t-i}.$
 
 ![corr_mean_data_abs](https://github.com/l-longo/HF_SVAR_Identification/assets/96943070/2c702932-bf4b-4327-93ab-99e9edb40a8d)
 
+## Getting started
