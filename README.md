@@ -3,8 +3,8 @@ The repository contains replication codes for implementing heterogenous VAR esti
 
 # The Model
 
-$B_0\bm{y}_{t} = B_d \boldsymbol{y}^{(d)}  + B_w \bm{y}^{(w)} + B_m \bm{y}^{(m)} + B_q \bm{y}^{(q)} + \bm{e}_t,$
+$B_0\boldsymbol{y}_{t} = B_d \boldsymbol{y}^{(d)}  + B_w \boldsymbol{y}^{(w)} + B_m \boldsymbol{y}^{(m)} + B_q \boldsymbol{y}^{(q)} + \boldsymbol{e}_t,$
 
-where $\bm{y}^{(d)} = \bm{y}_{t-1}$, $\bm{y}^{(w)} = \sum_{i=2}^5 \bm{y}_{t-i}$, $\bm{y}^{(m)} = \sum_{i=6}^{22} \bm{y}_{t-i}$, $\bm{y}^{(q)} = \sum_{i=23}^{66} \bm{y}_{t-i}$. 
+where $\boldsymbol{y}^{(d)} = \boldsymbol{y}_{t-1}$, $\boldsymbol{y}^{(w)} = \sum_{i=2}^5 \boldsymbol{y}_{t-i}$, $\boldsymbol{y}^{(m)} = \sum_{i=6}^{22} \boldsymbol{y}_{t-i}$, $\boldsymbol{y}^{(q)} = \sum_{i=23}^{66} \boldsymbol{y}_{t-i}$. 
 
 
