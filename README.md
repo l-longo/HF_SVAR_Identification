@@ -5,7 +5,7 @@ The repository contains replication codes for implementing heterogenous VAR esti
 $\boldsymbol{y}^{(d)} = \boldsymbol{y}_{t-1}$
 
 $B_0\boldsymbol{y}_{t} = B_d \boldsymbol{y}^{(d)}  + B_w \boldsymbol{y}^{(w)} + B_m \boldsymbol{y}^{(m)} + B_q \boldsymbol{y}^{(q)} + \boldsymbol{e}_t,$
-with:
+$\text{with:}$
 $\boldsymbol{y}^{(d)} = \boldsymbol{y}_{t-1}$
  
 $\boldsymbol{y}^{(d)} = \boldsymbol{y}_{t-1}$, 
