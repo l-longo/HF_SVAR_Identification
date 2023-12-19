@@ -25,4 +25,4 @@ The absence of contemporaneous leads to an unbiased IRF at time 0 (blue line for
 ![Schermata 2023-12-18 alle 20 12 23](https://github.com/l-longo/HF_SVAR_Identification/assets/96943070/44de2bfd-4bd9-4839-bc78-b137e68cf361)
 
 ## Getting started
-In the repository you can find two Python notebooks to generate results from the simulation exercise of the paper, in particular: matrix diagonalization and IRFs identification for different frequencies.
+In the repository you can find two Python notebooks to generate results from the simulation exercise of the paper, in particular: [matrix diagonalization] and [IRFs identification](https://github.com/l-longo/HF_SVAR_Identification/blob/main/codes/IRFs.ipynb) for different frequencies.
